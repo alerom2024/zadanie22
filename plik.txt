@@ -1,4 +1,4 @@
 pierwsza linia kodu 09:42 05.01.2024
-Druga linia kodu 09:46 05.01.2024
-Trzecia linia kody 09:48 05.01.202409:48 05.01.2024
-Czwarta linia kodu 09:51 05.01.2024
+druga linia kodu 09:46 05.01.2024
+trzecia linia kodu 09:48 05.01.202409:48 05.01.2024
+czwarta linia kodu 09:51 05.01.2024
